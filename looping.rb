@@ -1,8 +1,7 @@
 def looping
   loop do
-    #your code here
-  puts "I have found the Time Machine!"
-  end
+    puts "I have found the Time Macthine!"
+ end
 end
-  looping
+looping
 #call your method here
